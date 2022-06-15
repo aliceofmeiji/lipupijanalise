@@ -1,0 +1,45 @@
+long time ago:       dP5 (destroyed) 
+day one:             kC
+day two(TWO):        D
+day three:           T
+day four:            P3
+day five:            C
+day six:             O
+day seven:           dP3
+day eight:           frustrum of Y6
+day nine:            dP5
+day ten:             triangular tiling
+day eleven:          P5
+day twelve:          square tiling
+day thirteen:        hex tiling
+day fourteen:        I
+day fifteen:         shadow of 4d hypercube
+day sixteen:         sierpinski triangle
+day seventeen:       aC
+day eighteen:        tT
+day nineteen:        tC
+day twenty:          tO
+day twenty one:      eC
+day twenty two:      k3P3
+day twenty three:    dt4dA4
+day twenty four:     sT
+day twenty five:     dt4O doesnt work aaaaa elongated square bipyramid
+day twenty six:      A4
+day twenty seven:    J4
+day twenty eight:    J3
+day twenty nine:     hexaflexagon
+day thirty:          P6
+day thirty one:      Y4
+day thirty two:      t{3,7}
+day thirty three:    J37
+day thirty four:     Y5
+day thirty five:     t3dP3(triangular bifrustrum)
+day thirty six:      jD
+day thirty seven:    5-6 scutoid
+day thirty eight:    two intersecting cubes
+day thirty nine:     P8
+day fourty:          disphenoid
+day fourty one:      Y6
+day fourty two:      ljD stellated triacontahedron - rhombic hexecontahedron
+day fourty three:    lO
+day fourty four:     shadow of 4d simplex

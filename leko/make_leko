@@ -1,0 +1,1 @@
+for i in *.jpg; do echo "<img src=$i" 'style="width:355px;height:200px">'; done > leko.html
